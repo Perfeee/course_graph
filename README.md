@@ -1,5 +1,5 @@
 # course_graph
-本项目是一个根据课程简介，画出课程图谱（仅包含先修课程和相关课程）的demo。运用到scrapy、BeautifulSoup、nltk、gensim、networlx等相关的python模块。
+本项目是一个根据课程简介，画出课程图谱（仅包含先修课程和相关课程）的demo。运用到scrapy、BeautifulSoup、nltk、gensim、networkx等相关的python模块。
 
 1、mit_course文件夹是跟scrapy网络爬虫相关的程序。
 
